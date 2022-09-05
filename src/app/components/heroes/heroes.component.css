@@ -1,4 +1,3 @@
-.selected {
-   color: rgb(230, 230, 230);
-   background: rgb(2, 2, 2);
+mat-row:hover {
+   background-color: whitesmoke;
 }

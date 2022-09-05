@@ -6,3 +6,12 @@ body {
    margin: 0; 
    font-family: Roboto, "Helvetica Neue", sans-serif; 
 }
+
+.vermelho {
+   background-color: rgb(244, 22, 22);
+   color: rgb(255, 233, 233);
+}
+
+.link {
+   cursor: pointer;
+}

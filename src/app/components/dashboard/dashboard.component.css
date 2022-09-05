@@ -1,0 +1,11 @@
+.pointer {
+   cursor: pointer;
+   color: bisque;
+   background-color: coral;
+   transition: .4s;
+}
+
+.pointer:hover {
+   color: coral;
+   background-color: bisque;
+}
